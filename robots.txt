@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://api-marketing-tools.netlify.app/sitemap.xml
